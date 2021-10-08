@@ -1,0 +1,12 @@
+@media only screen and (min-width: 768px) {
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .main-container {
+    height: 50%;
+    width: 50%;
+  }
+}

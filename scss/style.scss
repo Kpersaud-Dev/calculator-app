@@ -83,6 +83,10 @@ body {
       box-shadow: 0 4px $gray-orange-key-background;
     }
 
+    .input-button:hover {
+      cursor: pointer;
+    }
+
     // Individual Buttons
 
     #delete {
@@ -109,3 +113,5 @@ body {
     }
   }
 }
+
+@import "desktop";
