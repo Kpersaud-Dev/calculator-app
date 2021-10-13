@@ -60,6 +60,10 @@ body {
     border-radius: 5%;
     margin: 1em 0;
     font-size: 2em;
+
+    .previous-operand {
+      font-size: 0.5em;
+    }
   }
 
   .inputs {
